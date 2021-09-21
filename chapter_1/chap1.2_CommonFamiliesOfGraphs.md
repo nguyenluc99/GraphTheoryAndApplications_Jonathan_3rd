@@ -19,6 +19,6 @@ The graph cannot be bipartite if it contains a triangle. Otherwise, it is.
 -  `C_n: n % 2 == 0`, or `n` is a multiple of 2.
 -  `P_n: `always, since it contains only two vertices.
 
-<img src="https://latex.codecogs.com/png.image?\dpi{200}\int \frac{1}{x} dx = \ln \left| x \right| + C"/>
+<img src="https://latex.codecogs.com/svg.image?\lim_{x%20\to%200}%20f(x)%20=%208"/>
 
 
