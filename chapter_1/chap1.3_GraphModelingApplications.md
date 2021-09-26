@@ -16,3 +16,14 @@ Since the buyer firstly bought O's, the probability that the next three purchase
 #### 1.3.4:
 ![New Finite-state recognizer](./1.3.4.jpg)
 
+#### 1.3.5:
+The strings accepted by the finite-state recognizer are strings which contains an odd number of `1`. 
+
+#### 1.3.6:
+Each appropriate team can be denoted by a edge with two vertices are two people sharing the same language.
+The group formulation can be achieved by removing edges and their vertices one by one so that we do not obtain any vertex without any edge connected, or one vertex at the end in case `n` is odd.
+
+#### 1.3.7:
+
+
+
