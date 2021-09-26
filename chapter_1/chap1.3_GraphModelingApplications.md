@@ -24,6 +24,9 @@ Each appropriate team can be denoted by a edge with two vertices are two people 
 The group formulation can be achieved by removing edges and their vertices one by one so that we do not obtain any vertex without any edge connected, or one vertex at the end in case `n` is odd.
 
 #### 1.3.7:
+Since we need to consider about the meeting times, it is a good chance to make use of interval graphs.
+Each vertex in the graph represents a meeting time interval of a person in a committee. The time interval for every person in a committee should be the same. Two vertices are adjacent if their intervals overlap. The vertices representing the meeting times of a person should be color in a same color.
+The condition for the graph is that there is no edges connecting two vertices that have the same color, which means that the person (characterized by that color) is working on two committees.
 
 
 
