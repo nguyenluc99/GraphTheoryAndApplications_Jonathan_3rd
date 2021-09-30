@@ -28,5 +28,16 @@ Since we need to consider about the meeting times, it is a good chance to make u
 Each vertex in the graph represents a meeting time interval of a person in a committee. The time interval for every person in a committee should be the same. Two vertices are adjacent if their intervals overlap. The vertices representing the meeting times of a person should be color in a same color.
 The condition for the graph is that there is no edges connecting two vertices that have the same color, which means that the person (characterized by that color) is working on two committees.
 
+#### 1.3.8:
+
+
+
+#### 1.3.9:
+- Solution 1: We situate seven cities in a `Oxy` coordinate so that the distances between cities is the same as mentioned in the table (i.e., we random a city `A`, then choose a random position on the `A`'s circumference with the radius is the distance between `A` and `B`, etc.). The positions to place the generators are the centroids when we do the k-means to cluster the 8 points on the graph into 3 clusters.
+
+- 
+
+
+
 
 
